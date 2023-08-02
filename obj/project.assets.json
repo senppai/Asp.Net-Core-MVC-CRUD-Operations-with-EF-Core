@@ -9801,11 +9801,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\pc\\Desktop\\PFE\\Nania\\Asp.Net-Core-6.0-MVC-CRUD-Operations-with-EF-Core-main\\Rania Chroqui\\BankTransactions\\BankTransactions.csproj",
+      "projectUniqueName": "C:\\Users\\pc\\Desktop\\PFE\\BankTransactions\\BankTransactions.csproj",
       "projectName": "BankTransactions",
-      "projectPath": "C:\\Users\\pc\\Desktop\\PFE\\Nania\\Asp.Net-Core-6.0-MVC-CRUD-Operations-with-EF-Core-main\\Rania Chroqui\\BankTransactions\\BankTransactions.csproj",
+      "projectPath": "C:\\Users\\pc\\Desktop\\PFE\\BankTransactions\\BankTransactions.csproj",
       "packagesPath": "C:\\Users\\pc\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\pc\\Desktop\\PFE\\Nania\\Asp.Net-Core-6.0-MVC-CRUD-Operations-with-EF-Core-main\\Rania Chroqui\\BankTransactions\\obj\\",
+      "outputPath": "C:\\Users\\pc\\Desktop\\PFE\\BankTransactions\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

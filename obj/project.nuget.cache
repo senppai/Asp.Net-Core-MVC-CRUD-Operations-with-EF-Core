@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "61fJZfr+rnxtrbVlbnjhVNhV+6ExTvQyDYK0FwJK1xW42SXu4eNdKMhMYkhBdmcLwLey7QGs938bSPcPFbqefg==",
+  "dgSpecHash": "+JbgmB0vVaTSwmcULJox/N/xzvBVfM12LP8r28Odcg8sREX8rgRr67w6KBkbt/hxub3A1ZGgw7SwXBs66ZMpHw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\pc\\Desktop\\PFE\\Nania\\Asp.Net-Core-6.0-MVC-CRUD-Operations-with-EF-Core-main\\Rania Chroqui\\BankTransactions\\BankTransactions.csproj",
+  "projectFilePath": "C:\\Users\\pc\\Desktop\\PFE\\BankTransactions\\BankTransactions.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\pc\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\pc\\.nuget\\packages\\messagepack\\2.1.152\\messagepack.2.1.152.nupkg.sha512",
